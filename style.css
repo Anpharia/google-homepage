@@ -1,0 +1,11 @@
+header ul{
+    display: grid;
+    align-items: auto;
+    justify-content: end;
+}
+
+header button {
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
